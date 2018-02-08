@@ -1,0 +1,16 @@
+## The first video gives details about 
+	# installing git
+	# configuring git
+	# creating github repository
+	# configuring github repository
+
+https://www.youtube.com/watch?v=xh32DIHApZA
+
+## Second video covers:
+	# using git
+	# commit push pull
+	# clone
+
+https://www.youtube.com/watch?v=RLFVbcrdWi0
+
+
