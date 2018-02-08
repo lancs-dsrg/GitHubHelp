@@ -1,0 +1,26 @@
+## Here are some useful git commands
+
+
+## configure git
+	git config --global user.name "username"
+	git config --global user.email "user@name.com"
+
+## make directory ready to use as a git repository
+	git init
+
+## tell git where the repository is on github.com
+## note use lancsDSRG in place of username
+	git remote add origin “https://github.com/username/repository”
+
+## add file "README" to the list (one file called README)
+	git add README
+
+## add all files in the directory
+	git add .
+
+## commit
+	git commit -m "first commit"
+
+## push to repository on github
+	git push origin master
+
