@@ -24,3 +24,6 @@
 ## push to repository on github
 	git push origin master
 
+## list the tracked files on the master branch
+   	git ls-tree -r master --name-only
+
