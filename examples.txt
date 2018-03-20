@@ -5,10 +5,13 @@
 	git config --global user.name "username"
 	git config --global user.email "user@name.com"
 
+## configuring defualt text editor
+git config --global core.editor emacs
+
 ## make directory ready to use as a git repository
 	git init
 
-## tell git where the repository is on github.com
+## tell git where the repository is on github.com (for a remote repository)
 ## note use lancsDSRG in place of username
 	git remote add origin “https://github.com/username/repository”
 
@@ -26,4 +29,8 @@
 
 ## list the tracked files on the master branch
    	git ls-tree -r master --name-only
+
+## for setting path to use ssh 
+git remote set-url origin git@github.com:username/repo.git
+
 
