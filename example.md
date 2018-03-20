@@ -53,3 +53,13 @@
 - `git clone https://github.com/username/repository test_repo`
 
 
+## More advanced topics, Branching:
+# Add new branch: `git brach branch_name`
+
+# View all branches `git branch`
+
+# switch to new branch `git checkout branch_name`
+
+# Merging a branch, be on the branch that we will merge into.
+
+ 
