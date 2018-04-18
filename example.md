@@ -8,7 +8,7 @@
 # configuring defualt text editor
    `git config --global core.editor emacs`
 
-# make directory ready to use as a git repository
+# initialise the repository for version control with git
 	`git init`
 
 # tell git where the repository is on github.com (for a remote repository)
